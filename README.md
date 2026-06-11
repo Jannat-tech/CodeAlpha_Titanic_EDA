@@ -1,4 +1,4 @@
-(TASK 1)CodeAlpha Titanic EDA Project
+(TASK 1)  (from DATA ANALYTICS )  CodeAlpha Titanic EDA Project
 
 Objective:
 
