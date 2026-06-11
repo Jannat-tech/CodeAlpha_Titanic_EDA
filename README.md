@@ -2,7 +2,7 @@ CodeAlpha Titanic EDA Project
 
 Objective:
 
-To perform Exploratory Data Analysis (EDA) and Data Visualization on the Titanic dataset using Python.
+To perform Exploratory Data Analysis (EDA)  dataset using Python.
 
 Tools Used:
 Python
