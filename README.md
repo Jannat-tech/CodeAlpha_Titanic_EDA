@@ -2,7 +2,7 @@ CodeAlpha Titanic EDA Project
 
 Objective:
 
-To perform Exploratory Data Analysis (EDA)  dataset using Python.
+To perform Exploratory Data Analysis (EDA)  dataset 
 
 Tools Used:
 Python
@@ -21,6 +21,7 @@ The average passenger age was approximately 29.7 years.
 Most passengers belonged to third class.
 Missing values were found in the Age, Cabin, and Embarked columns.
 Data visualization helped identify important trends and patterns.
+
 Files Included
 eda.py
 viz.py
