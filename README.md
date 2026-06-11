@@ -1,4 +1,4 @@
-CodeAlpha Titanic EDA Project
+(TASK 1)CodeAlpha Titanic EDA Project
 
 Objective:
 
@@ -7,7 +7,7 @@ To perform Exploratory Data Analysis (EDA)  dataset
 Tools Used:
 Python
 Pandas
-Matplotlib
+Matplotlib  
 VS Code
 GitHub
 Dataset
